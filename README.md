@@ -11,7 +11,7 @@ The Bug Issue Finder is a lightweight and efficient tool designed to help develo
 ▪ Simple Interface: A straightforward and user-friendly interface for quick interaction.
 
 ### How to Use
-1. Access the Application: Open the provided link in your web browser: https://abdullah-al-shishir.github.io/Bug_Issue_Finder/
+1. Access the Application: Open the provided link in your web browser: https://abdullah-al-shishir.github.io/Bug_finder/
 
 2. Fetch an Issue: Click the "Fetch Issue" button (or similar, depending on your UI) to retrieve a random open bug issue.
 
